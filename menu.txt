@@ -4,3 +4,4 @@ karam
 oil
 chicken
 carrot
+cabbage
